@@ -1,0 +1,3 @@
+TODO_DIR="$HOME/.local/share/todofy"
+TODO_FILE="$TODO_DIR/todo.txt"
+
